@@ -14,27 +14,63 @@
       "!type": "External",
       "file": [
         "forms",
-        "membership",
+        "newControls",
         "Elements",
-        "btnEnterMember.json"
+        "sldr1.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "membership",
+        "newControls",
         "Elements",
-        "inptName.json"
+        "lblSldr1.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "membership",
+        "newControls",
         "Elements",
-        "lblMessageMember.json"
+        "cbx1.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "newControls",
+        "Elements",
+        "lblCbx1.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "newControls",
+        "Elements",
+        "jumboMessage.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "newControls",
+        "Elements",
+        "pgbr1.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "newControls",
+        "Elements",
+        "lblProgress.json"
       ]
     }
   ],
@@ -44,7 +80,7 @@
   "expanded_pmp": null,
   "fullScreen": "true",
   "height": 460,
-  "id": "membership",
+  "id": "newControls",
   "language": "JavaScript",
   "left": "0",
   "locked": false,
@@ -57,8 +93,6 @@
   "parentForm": "",
   "position": "absolute",
   "script": null,
-  "scroll_options": "mouseWheel:true, bounce:true, zoom:false",
-  "scrolling": "false",
   "setFocusID": "",
   "style": "",
   "theme": "",
