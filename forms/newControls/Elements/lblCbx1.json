@@ -17,9 +17,9 @@
   "fontWeight": "",
   "height": "auto",
   "hidden": "",
-  "id": "lblSldr1",
+  "id": "lblCbx1",
   "labelStyle": "text",
-  "left": 12,
+  "left": 0,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -42,6 +42,7 @@
   "right": "auto",
   "script": "",
   "style": "",
-  "value": "Made slider square, changed left side of slider to black",
+  "top": 171,
+  "value": "Changed Header and box names",
   "width": "auto"
 }

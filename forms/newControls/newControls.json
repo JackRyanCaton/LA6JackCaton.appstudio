@@ -27,6 +27,25 @@
         "Elements",
         "lblSldr1.json"
       ]
+
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "newControls",
+        "Elements",
+        "pgbr1.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "newControls",
+        "Elements",
+        "lblProgress.json"
+      ]
     }
   ],
   "class": "",

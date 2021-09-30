@@ -38,8 +38,7 @@
             "calculator",
             "calculator.json"
           ]
-<<<<<<< Updated upstream
-=======
+
         },
         {
           "!type": "External",
@@ -48,7 +47,7 @@
             "newControls",
             "newControls.json"
           ]
->>>>>>> Stashed changes
+
         }
       ],
       "configxml": null,
@@ -72,11 +71,6 @@
       "exetitle": "",
       "expanded_pmp": null,
       "extraheaders": null,
-<<<<<<< Updated upstream
-      "firstform": "calculator",
-=======
-      "firstform": "newControls",
->>>>>>> Stashed changes
       "fontFamily": "system",
       "googlePlayKey": "certificates/google.json",
       "googlePlayTrack": "production",
