@@ -27,33 +27,7 @@
         "Elements",
         "lblSldr1.json"
       ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "newControls",
-        "Elements",
-        "cbx1.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "newControls",
-        "Elements",
-        "lblCbx1.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "newControls",
-        "Elements",
-        "jumboMessage.json"
-      ]
+
     },
     {
       "!type": "External",
